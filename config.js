@@ -17,7 +17,7 @@ window.CONFIG = {
   },
 
   socials: [
-    { platform: "discord", url: "https://discord.gg/yourserver" },
+    { platform: "discord", url: "https://discord.gg/eR5V96jYpr" },
   ],
 
   scripts: [
